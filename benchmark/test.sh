@@ -1,0 +1,1 @@
+./run_benchmark_4s.sh  -tp /media/nvme/johnson/model-space/Qwen-7B -mp /media/nvme/johnson/model-space/Qwen-7B-xft -s 2 -bs 1 -in 1024 -out 128 -b 1 -i 10 -w 3 -c test.csv
